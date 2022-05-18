@@ -12,7 +12,8 @@ how to add it :
 
 go to this line in qb-spawn/client.lua
 
-[image](https://user-images.githubusercontent.com/89742984/169073088-935f1893-5b33-4c03-a57e-d9b5bf6fb056.png)
+
+![chrome_lzX609Q36v](https://user-images.githubusercontent.com/89742984/169099408-641de64e-2d83-465f-8c6c-508b3850d068.png)
 
 and replace it with this
 ```
