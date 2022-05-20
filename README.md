@@ -3,6 +3,7 @@ qb-spawnselector np style freeeeeeeee 😜✌👌
 
 you can get the spawn and the spawn selector 
 
+join my discord for the nopixel spawn mlo
 *
 
 no pixel style
