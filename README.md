@@ -1,6 +1,8 @@
 # qb-spawnselector-np
 qb-spawnselector np style freeeeeeeee 😜✌👌
 
+you can get the spawn and the spawn selector 
+
 *
 
 no pixel style
