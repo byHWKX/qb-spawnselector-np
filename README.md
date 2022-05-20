@@ -4,6 +4,9 @@ qb-spawnselector np style freeeeeeeee 😜✌👌
 you can get the spawn and the spawn selector 
 
 join my discord for the nopixel spawn mlo
+
+https://discord.gg/rV7pZzCa32
+
 *
 
 no pixel style
@@ -12,6 +15,4 @@ no pixel style
 video : https://youtu.be/StJIssaWN5w
 
 *
-
-https://discord.gg/rV7pZzCa32
 
