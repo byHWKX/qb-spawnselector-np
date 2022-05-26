@@ -1,6 +1,8 @@
 # qb-spawnselector-np
 qb-spawnselector np style freeeeeeeee 😜✌👌
 
+THIS IS NOT QB-SPAWN ⚠⚠⚠⚠⚠⚠⚠⚠
+
 you can get the spawn and the spawn selector 
 
 join my discord for the nopixel spawn mlo
