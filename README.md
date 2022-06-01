@@ -23,7 +23,7 @@ one go to qb-apartments client/main.lua
 
 and go to this event 'apartments:client:setupSpawnUI' 
 
-and replace it with this 
+and replace it ALL with this 
 ```
 RegisterNetEvent('apartments:client:setupSpawnUI', function(cData)
     QBCore.Functions.TriggerCallback('apartments:GetOwnedApartment', function(result)
@@ -49,7 +49,7 @@ two  go to qb-spawn client
 
 and go to this event 'qb-spawn:client:setupSpawns'
 
-and replace it with tihs
+and replace it ALL with tihs
 ```
 RegisterNetEvent('qb-spawn:client:setupSpawns', function(cData, new, apps)
     if not new then
